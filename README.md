@@ -15,8 +15,10 @@ Variational Monte Carlo (VMC) implementation using JAX/Flax to investigate groun
 * `*.png` / `*.pdf`: Plots showing local energy convergence, Jastrow profiles, and nodal surface analysis.
 * `*.npz`: Raw numerical outputs and energy trajectories.
 
+📄 **[Read the Full PDF Report](./NQS_Beryllium_Report.pdf)*
+
 ## Requirements
 ```bash
 pip install jax jaxlib flax numpy matplotlib scipy
 
-📄 **[Read the Full PDF Report](./NQS_Beryllium_Report.pdf)**
+*
