@@ -18,3 +18,5 @@ Variational Monte Carlo (VMC) implementation using JAX/Flax to investigate groun
 ## Requirements
 ```bash
 pip install jax jaxlib flax numpy matplotlib scipy
+
+📄 **[Read the Full PDF Report](./NQS_Beryllium_Report.pdf)**
